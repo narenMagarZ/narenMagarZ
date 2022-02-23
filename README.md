@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @narenMagarZ
-- 👀 I’m interested in backend development , devops , machime learning (python) , data science and cp(dsa) 
+- 👀 I’m interested in backend development , devops , machine learning (python) , data science and cp(dsa) 
 - 🌱 I’m currently learning nodejs and distributed system of backend development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
