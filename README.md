@@ -1,6 +1,6 @@
 # Hi, I'm Naren 👋
 
-Backend Developer building scalable, high-throughput systems.
+I build things. Sometimes they even work in production.
 
 - 🛠️ Core stack: **Node.js, TypeScript, Express.js, PostgreSQL, Redis, RabbitMQ, AWS, Docker**
 - 🌱 Learning **Go** and **Python** through side projects
