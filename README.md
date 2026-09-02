@@ -5,7 +5,7 @@ I build things. Sometimes they even work in production.
 - 🛠️ Core stack: **Node.js, TypeScript, Express.js, PostgreSQL, Redis, RabbitMQ, AWS, Docker**
 - 🌱 Learning **Go** and **Python** through side projects
 - 📍 Based in Kathmandu, Nepal
-- 📫 Reach me at **narenmagarz98@gmail.com**
+- 📫 Reach me at **narenmagarz9767@gmail.com**
 
 ---
 
